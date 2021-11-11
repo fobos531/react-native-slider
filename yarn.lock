@@ -2099,6 +2099,32 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fobos531/react-native-slider@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@fobos531/react-native-slider@workspace:."
+  dependencies:
+    "@babel/core": 7.15.5
+    "@react-native-community/eslint-config": 3.0.1
+    "@storybook/react": 6.3.8
+    "@types/react": 17.0.26
+    "@types/react-native": 0.65.2
+    babel-loader: 8.2.2
+    eslint: 7.32.0
+    patch-package: 6.4.7
+    prettier: 2.4.1
+    react: 17.0.2
+    react-dom: 17.0.2
+    react-native: 0.65.1
+    react-native-linear-gradient: ^2.5.6
+    react-native-web: 0.17.5
+    rimraf: 3.0.2
+    typescript: 4.4.3
+  peerDependencies:
+    react: ">=16.8"
+    react-native: ">=0.59"
+  languageName: unknown
+  linkType: soft
+
 "@gar/promisify@npm:^1.0.1":
   version: 1.1.2
   resolution: "@gar/promisify@npm:1.1.2"
@@ -2215,31 +2241,6 @@ __metadata:
   checksum: 4b393907e39a1a75214f0314bf72a0adfa5e5adffd050dd5efe9c055b8549481a3cfc9f308c16dfb33311daf3ff63added7d5fd1fe52db614c004f886e0e559a
   languageName: node
   linkType: hard
-
-"@miblanchard/react-native-slider@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@miblanchard/react-native-slider@workspace:."
-  dependencies:
-    "@babel/core": 7.15.5
-    "@react-native-community/eslint-config": 3.0.1
-    "@storybook/react": 6.3.8
-    "@types/react": 17.0.26
-    "@types/react-native": 0.65.2
-    babel-loader: 8.2.2
-    eslint: 7.32.0
-    patch-package: 6.4.7
-    prettier: 2.4.1
-    react: 17.0.2
-    react-dom: 17.0.2
-    react-native: 0.65.1
-    react-native-web: 0.17.5
-    rimraf: 3.0.2
-    typescript: 4.4.3
-  peerDependencies:
-    react: ">=16.8"
-    react-native: ">=0.59"
-  languageName: unknown
-  linkType: soft
 
 "@mrmlnc/readdir-enhanced@npm:^2.2.1":
   version: 2.2.1
@@ -12333,6 +12334,15 @@ fsevents@^1.2.7:
   version: 3.0.4
   resolution: "react-lifecycles-compat@npm:3.0.4"
   checksum: a904b0fc0a8eeb15a148c9feb7bc17cec7ef96e71188280061fc340043fd6d8ee3ff233381f0e8f95c1cf926210b2c4a31f38182c8f35ac55057e453d6df204f
+  languageName: node
+  linkType: hard
+
+"react-native-linear-gradient@npm:^2.5.6":
+  version: 2.5.6
+  resolution: "react-native-linear-gradient@npm:2.5.6"
+  peerDependencies:
+    react-native: ">=0.55"
+  checksum: 7848eff1dfdb219123303de1b62daa6ba7e669700506985b770cff542052fb70815627fb42e5c189f5a6c9f17c740d0067c0d917cd2fab883f1b860419a2496d
   languageName: node
   linkType: hard
 
