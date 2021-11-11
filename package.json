@@ -1,5 +1,5 @@
 {
-    "name": "@miblanchard/react-native-slider",
+    "name": "@fobos531/react-native-slider",
     "version": "2.0.2",
     "description": "A pure JavaScript <Slider /> component for react-native",
     "main": "lib/index.js",
@@ -9,7 +9,8 @@
     ],
     "contributors": [
         "Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser)",
-        "Michael Blanchard <michael.james.blanchard@gmail.com (https://github.com/miblanchard)>"
+        "Michael Blanchard <michael.james.blanchard@gmail.com (https://github.com/miblanchard)>",
+        "Jakov Glavina <jakov.glavina@icloud.com (https://github.com/fobos531)>"
     ],
     "keywords": [
         "react-component",
@@ -32,7 +33,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:miblanchard/react-native-slider.git"
+        "url": "git@github.com:fobos531/react-native-slider.git"
     },
     "peerDependencies": {
         "react": ">=16.8",
